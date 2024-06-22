@@ -40,6 +40,8 @@ extra:
       link: https://github.com/Mahdi-Moosa/
     - icon: fontawesome/brands/mastodon
       link: https://mastodon.world/@mahdimoosa
+    - icon: fontawesome/brands/linkedin
+      link: fontawesome/brands/linkedin
 
 
 copyright: Copyright &copy; 2024 Mahdi Moosa
