@@ -44,7 +44,8 @@ extra:
       link: https://mastodon.world/@mahdimoosa
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/mahdimoosa/
-    - icon: fontawesome/brands/firefox-browser
+    # - icon: fontawesome/brands/firefox-browser
+    - icon: material/link
       link: https://mahdimoosa.substack.com/
 
 
