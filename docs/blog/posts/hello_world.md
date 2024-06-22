@@ -9,7 +9,7 @@ tags:
 # Hello Word
 
 ## Intro
-This is the - *Hello World!* statement blog.
+This is the - ***Hello World!*** statement blog.
 
 <!-- more -->
 
@@ -19,5 +19,5 @@ This section is hidden from the snippet in the Blog URL.
 
 ## Outtro
 
-Signing out from the *Hello World!*
+Signing out from the ***Hello World!***
 
