@@ -1,7 +1,7 @@
 ---
 date: 2024-06-22 19:14:38
 tags:
-  - Debug
+  - Debugging
   # - SQL
   # - Rand
 ---
