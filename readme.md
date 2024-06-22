@@ -1,1 +1,1 @@
-This is the repo for Mahdi's Zone!
+This is for Mahdi's GitHub website's repository!
