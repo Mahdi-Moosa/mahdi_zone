@@ -38,6 +38,8 @@ extra:
       link: https://scholar.google.com/citations?user=wbigX9EAAAAJ
     - icon: fontawesome/brands/github
       link: https://github.com/Mahdi-Moosa/
+    - icon: fontawesome/brands/mastodon
+      link: https://mastodon.world/@mahdimoosa
 
 
 copyright: Copyright &copy; 2024 Mahdi Moosa
