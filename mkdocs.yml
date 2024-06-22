@@ -1,0 +1,43 @@
+site_name: Zone Mahdi &#9410
+
+theme:
+  name: material
+  palette: 
+    
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: blue grey
+      toggle:
+        icon: material/brightness-7
+        name: Switch to day mode
+
+    # Palette toggle for light mode
+    - scheme: default
+      primary: grey
+      toggle:
+        icon: material/brightness-4 
+        name: Switch to night mode
+  
+
+
+
+plugins:
+  - blog:
+      post_date_format: full
+      # post_excerpt: required
+      post_excerpt_separator: <!-- more -->
+      post_slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
+  - tags:
+      tags_file: tags.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/google-scholar 
+      link: https://scholar.google.com/citations?user=wbigX9EAAAAJ
+    - icon: fontawesome/brands/github
+      link: https://github.com/Mahdi-Moosa/
+
+
+copyright: Copyright &copy; 2024 Mahdi Moosa
