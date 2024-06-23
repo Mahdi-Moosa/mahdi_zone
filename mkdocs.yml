@@ -29,6 +29,14 @@ plugins:
   - tags:
       tags_file: tags.md
 
+nav:
+  - Home:
+    - index.md
+  - Blog:
+    - blog/index.md
+  - Tags:
+    - tags.md
+     
 extra:
   social:
     - icon: fontawesome/brands/google-scholar 
