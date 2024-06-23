@@ -1,6 +1,11 @@
+# Site information
 site_name: Zone Mahdi &#9410
+site_url: https://github.com/Mahdi-Moosa/mahdi-moosa.github.io
+site_author: Mahdi Moosa
+site_description: >-
+  Mahdi Moosa's personal GitHub site. 
 
- Repository
+# Repository
 repo_name: mahdi-moosa.github.io
 repo_url: https://github.com/Mahdi-Moosa/mahdi-moosa.github.io
 
