@@ -65,10 +65,13 @@ markdown_extensions:
 
 extra:
   social:
-    - icon: fontawesome/brands/google-scholar 
+    #- icon: fontawesome/brands/google-scholar 
+    - icon: academicons/google-scholar 
       link: https://scholar.google.com/citations?user=wbigX9EAAAAJ
     - icon: fontawesome/brands/researchgate 
       link: https://www.researchgate.net/profile/Mahdi-Moosa
+    - icon: academicons/orcid
+      link: https://orcid.org/0000-0002-2823-3178
     - icon: fontawesome/brands/square-github
       link: https://github.com/Mahdi-Moosa/
     - icon: fontawesome/brands/mastodon
