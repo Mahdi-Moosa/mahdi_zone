@@ -33,9 +33,9 @@ plugins:
       tags_file: tags.md
 
 nav:
-  - Blog:
-    - index.md
-  - Tags: tags.md  # Added for tag listing
+  - Blog: docs/blog/index.md
+  - Tags: docs/tags.md
+
 
 
 extra:
