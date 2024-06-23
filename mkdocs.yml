@@ -1,5 +1,9 @@
 site_name: Zone Mahdi &#9410
 
+ Repository
+repo_name: mahdi-moosa.github.io
+repo_url: https://github.com/Mahdi-Moosa/mahdi-moosa.github.io
+
 theme:
   name: material
   features:
