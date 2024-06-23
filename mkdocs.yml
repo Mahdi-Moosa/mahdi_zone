@@ -28,6 +28,11 @@ plugins:
           case: lower
   - tags:
       tags_file: tags.md
+  - search:
+      pipeline:
+        - stemmer
+        - stopWordFilter
+        - trimmer
 
 # nav:
 #   - Home:
