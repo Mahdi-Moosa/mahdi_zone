@@ -33,7 +33,7 @@ plugins:
       tags_file: tags.md
 
 nav:
-  - Blog: docs/blog/index.md
+  - Blog: docs/index.md
   - Tags: docs/tags.md
 
 
