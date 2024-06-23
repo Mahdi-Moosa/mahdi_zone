@@ -32,6 +32,12 @@ plugins:
   - tags:
       tags_file: tags.md
 
+nav:
+  - Blog:
+    - index.md
+  - Tags: tags.md  # Added for tag listing
+
+
 extra:
   social:
     - icon: fontawesome/brands/google-scholar 
