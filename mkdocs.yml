@@ -2,6 +2,8 @@ site_name: Zone Mahdi &#9410
 
 theme:
   name: material
+  features:
+    - navigation.tabs
   palette: 
     
     # Palette toggle for dark mode
