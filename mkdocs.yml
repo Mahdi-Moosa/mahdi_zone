@@ -36,13 +36,13 @@ plugins:
         - stopWordFilter
         - trimmer
 
-# nav:
-#   - Home:
-#     - index.md
-#   - Blog:
-#     - blog/index.md
-#   - Tags:
-#     - tags.md
+nav:
+  - Home:
+    - index.md
+  - Blog:
+    - blog/index.md
+  - Tags:
+    - tags.md
 # nav not working for mobile devices.
      
 extra:
