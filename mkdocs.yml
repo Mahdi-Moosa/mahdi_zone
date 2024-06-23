@@ -18,9 +18,6 @@ theme:
         icon: material/brightness-4 
         name: Switch to night mode
   
-
-
-
 plugins:
   - blog:
       post_date_format: full
@@ -31,12 +28,6 @@ plugins:
           case: lower
   - tags:
       tags_file: tags.md
-
-nav:
-  - Blog: docs/index.md
-  - Tags: docs/tags.md
-
-
 
 extra:
   social:
