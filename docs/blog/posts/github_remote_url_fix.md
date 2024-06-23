@@ -24,7 +24,7 @@ Viola! It fixed!
 
 *Note: You may need to remove the non-working remote link to GitHub repo first before you can add.*
 
-## Hypothesis/Explanation: 
+## Tentative explanation
 The official git command is:
 
 ```usage: git remote add [<options>] <name> <url>```
